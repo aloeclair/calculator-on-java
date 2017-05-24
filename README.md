@@ -7,9 +7,9 @@
 
 ・今回作るにあたって
    
-	 「Javaで始めるプログラミング](文献[1])で学び、電卓のシステム部分では同サイトのChapter12 (文献[2])を参考に作りました。
+	「Javaで始めるプログラミング](文献[1])で学び、電卓のシステム部分では同サイトのChapter12 (文献[2])を参考に作りました。
 
 参考文献　
    
-		文献[1]「Javaで始めるプログラミング」http://msyk.net/keio/JavaBook/
-		文献[2]「Javaで始めるプログラミング：Chapter12：電卓を作ってみる」http://msyk.net/keio/JavaBook/eclipse-indigo/ch12.html
+	文献[1]「Javaで始めるプログラミング」http://msyk.net/keio/JavaBook/
+	文献[2]「Javaで始めるプログラミング：Chapter12：電卓を作ってみる」http://msyk.net/keio/JavaBook/eclipse-indigo/ch12.html
